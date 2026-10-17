@@ -1,0 +1,8 @@
+# Entorno virtual y temporales
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno y secretos
+.env
+.streamlit/secrets.toml
