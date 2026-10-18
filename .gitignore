@@ -1,0 +1,10 @@
+# Entorno virtual y temporales
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno y secretos
+.env
+.streamlit/secrets.toml
+# Datos personales de estudiantes
+estudiantes_autorizados.csv
