@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> avance-jesus
 # Entorno virtual y temporales
 venv/
 __pycache__/
@@ -7,6 +10,7 @@ __pycache__/
 # Variables de entorno y secretos
 .env
 .streamlit/secrets.toml
+<<<<<<< HEAD
 =======
 venv/
 __pycache__/
@@ -15,3 +19,10 @@ __pycache__/
 .streamlit/secrets.toml
 preguntas.csv
 >>>>>>> chat-bot2
+=======
+credenciales_google.json
+*-credentials.json
+
+# Datos personales de estudiantes
+estudiantes_autorizados.csv
+>>>>>>> avance-jesus
