@@ -1,0 +1,49 @@
+fecha,usuario,pregunta,respuesta,respondida
+2026-10-12T11:48:00,u4d7cd58f,¿Qué materias tiene el plan de estudios?,(ejemplo),1
+2026-10-12T13:21:00,ua8481426,¿Cuántos semestres dura la maestría?,(ejemplo),1
+2026-10-12T14:41:00,u12e37d7a9,¿Cuántos créditos tiene el programa?,(ejemplo),1
+2026-10-12T17:38:00,ua8481426,¿Qué materias se llevan en el primer semestre?,(ejemplo),1
+2026-10-12T23:47:00,uc4ca5a2b,¿Hay materias optativas en el mapa curricular?,(ejemplo),1
+2026-10-13T00:59:00,u12e37d7a9,¿Cuál es el mapa curricular?,(ejemplo),1
+2026-10-13T06:11:00,ua127a414,¿Cuántas materias se cursan por cuatrimestre?,(ejemplo),1
+2026-10-13T08:07:00,u1aa9e315a,¿Hay materias de investigación en el plan de estudios?,(ejemplo),1
+2026-10-13T09:16:00,ua8481426,¿Cuándo se hace la tesis o proyecto final?,(ejemplo),1
+2026-10-13T15:40:00,ue23e6e50,¿Qué materias de innovación educativa incluye?,(ejemplo),1
+2026-10-13T20:48:00,u16238d737,¿Cuándo inician las clases?,(ejemplo),1
+2026-10-14T02:24:00,ubd8218f5,¿Cuándo es la fecha de inscripción?,(ejemplo),1
+2026-10-14T06:58:00,ua127a414,¿Cuáles son las fechas del calendario 2026-2027?,(ejemplo),1
+2026-10-14T11:50:00,u4d7cd58f,¿Cuándo terminan las clases del cuatrimestre?,(ejemplo),1
+2026-10-14T14:50:00,u252d3c1d9,¿Cuándo son las vacaciones en el calendario?,(ejemplo),1
+2026-10-14T20:09:00,u252d3c1d9,¿Hasta cuándo puedo inscribirme?,(ejemplo),1
+2026-10-14T23:34:00,u45341ad8,¿Cuándo es el periodo de exámenes?,(ejemplo),1
+2026-10-15T02:01:00,u24787a1b0,¿Cuál es la fecha límite para entregar documentos?,(ejemplo),1
+2026-10-15T03:53:00,u13586a4cc,¿Cuándo empieza el siguiente ciclo escolar?,(ejemplo),1
+2026-10-15T06:17:00,ue23e6e50,¿Qué días no hay clases en el calendario?,(ejemplo),1
+2026-10-15T11:31:00,u45341ad8,¿El programa tiene validez oficial?,(ejemplo),1
+2026-10-15T16:19:00,u252d3c1d9,¿Está reconocido por la SEP?,(ejemplo),1
+2026-10-15T19:34:00,u13586a4cc,¿Cuál es el RVOE de la maestría?,(ejemplo),1
+2026-10-15T23:43:00,u45341ad8,¿El título tiene validez en todo el país?,(ejemplo),1
+2026-10-16T05:14:00,ue23e6e50,¿Me dan cédula profesional al terminar?,(ejemplo),1
+2026-10-16T06:34:00,ua8481426,¿La universidad está acreditada oficialmente?,(ejemplo),1
+2026-10-16T10:28:00,uc4ca5a2b,¿Qué respaldo oficial tiene el posgrado?,(ejemplo),1
+2026-10-16T13:43:00,uc4ca5a2b,¿El grado sirve para trabajar en escuelas públicas?,(ejemplo),1
+2026-10-16T18:13:00,u4d7cd58f,¿Qué requisitos necesito para ingresar?,(ejemplo),1
+2026-10-16T18:53:00,ua127a414,¿Qué documentos debo entregar para inscribirme?,(ejemplo),1
+2026-10-16T19:52:00,u24787a1b0,¿Necesito título de licenciatura para entrar?,(ejemplo),1
+2026-10-17T00:57:00,u12e37d7a9,¿Piden examen de admisión?,(ejemplo),1
+2026-10-17T03:57:00,u1aa9e315a,¿Hay requisito de promedio mínimo?,(ejemplo),1
+2026-10-17T10:12:00,u1aa9e315a,¿Piden carta de motivos?,(ejemplo),1
+2026-10-17T15:36:00,u252d3c1d9,¿Necesito acreditar inglés para ingresar?,(ejemplo),1
+2026-10-17T20:52:00,u24787a1b0,¿Qué documentos piden en la convocatoria?,(ejemplo),1
+2026-10-18T01:05:00,ue23e6e50,¿Cuánto cuesta la colegiatura?,(ejemplo),0
+2026-10-18T03:43:00,ua127a414,¿Hay becas disponibles?,(ejemplo),0
+2026-10-18T04:36:00,u13586a4cc,¿Cuál es el costo de inscripción?,(ejemplo),0
+2026-10-18T07:34:00,ua127a414,¿Puedo pagar en parcialidades?,(ejemplo),0
+2026-10-18T11:42:00,u4d7cd58f,¿Cuánto cuesta el programa completo?,(ejemplo),0
+2026-10-18T17:44:00,u252d3c1d9,¿Hay descuento para egresados?,(ejemplo),0
+2026-10-18T21:05:00,ue23e6e50,¿Aceptan pago con tarjeta?,(ejemplo),0
+2026-10-19T01:37:00,u24787a1b0,¿Las clases son en línea o presenciales?,(ejemplo),0
+2026-10-19T04:24:00,ubd8218f5,¿Cuál es el horario de clases?,(ejemplo),0
+2026-10-19T08:07:00,u1175f60cb,¿Las clases son entre semana o sábados?,(ejemplo),0
+2026-10-19T12:41:00,u252d3c1d9,¿Puedo trabajar y estudiar al mismo tiempo?,(ejemplo),0
+2026-10-19T16:26:00,uc4ca5a2b,¿Hay clases por las noches?,(ejemplo),0

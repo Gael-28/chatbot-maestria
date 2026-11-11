@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Entorno virtual y temporales
 venv/
 __pycache__/
@@ -6,3 +7,11 @@ __pycache__/
 # Variables de entorno y secretos
 .env
 .streamlit/secrets.toml
+=======
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+preguntas.csv
+>>>>>>> chat-bot2
